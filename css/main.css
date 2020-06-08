@@ -202,3 +202,13 @@ video{
   font-size: 100%;
   color: #00000080;
 }
+
+.container{
+  min-width: 100%;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+.main-background{
+  min-width: 100%;
+}
