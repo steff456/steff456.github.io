@@ -212,3 +212,15 @@ video{
 .main-background{
   min-width: 100%;
 }
+
+.color-panel{
+  display: flex;
+  justify-content: center;
+  justify-items: center;
+  height: 100vh;
+  flex-direction: column;
+}
+
+.self-align{
+  align-self: center;
+}
