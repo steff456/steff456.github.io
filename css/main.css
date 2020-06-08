@@ -217,7 +217,7 @@ video{
   display: flex;
   justify-content: center;
   justify-items: center;
-  height: 100vh;
+  height: 110vh;
   flex-direction: column;
 }
 
